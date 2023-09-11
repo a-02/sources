@@ -1,0 +1,3 @@
+[user]
+	email = nks@9k.vc
+	name = nks
